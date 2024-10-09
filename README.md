@@ -5,4 +5,6 @@
 * Inheritance
 * ...
 
+![Snake Game](C:\Users\Lys\Desktop\Swing\workspace\Snakeemyimage.pngs/)
+
 #### © 2024 ji-Ly
