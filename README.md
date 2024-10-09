@@ -2,7 +2,6 @@
 ### You will find in this repo the following stuff:
 * Java Swing
 * Functions in java
-* Inheritance
 * ...
 
 ![Snake Game](./SnakeGame.png)
