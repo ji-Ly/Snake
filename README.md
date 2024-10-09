@@ -5,6 +5,6 @@
 * Inheritance
 * ...
 
-![Snake Game](C:\Users\Lys\Desktop\Swing\workspace\Snakeemyimage.pngs/)
+![Snake Game](./SnakeGame.png)
 
 #### © 2024 ji-Ly
